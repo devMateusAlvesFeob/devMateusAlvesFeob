@@ -19,14 +19,14 @@ Me chamo Mateus Alve8, tenho 20 anos e sou natural de Cabo Verde MG. Atualmente,
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.instagram.com/dev_allves/">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Instagram" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/devMateusAlvesFeob/devMateusAlvesFeob">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -155,5 +155,5 @@ Me chamo Mateus Alve8, tenho 20 anos e sou natural de Cabo Verde MG. Atualmente,
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
 

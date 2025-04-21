@@ -5,14 +5,14 @@
 Me chamo Mateus Alve8, tenho 20 anos e sou natural de Cabo Verde MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFEOB. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[dev_Alves](https://www.instagram.com/dev_allves/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@MateusALves?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@MateusAlves">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 

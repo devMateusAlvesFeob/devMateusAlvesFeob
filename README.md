@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-end**
 
-Olá! Me chamo Mateus Alves, tenho 20 anos e sou natural de Cabo Verde, MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFEOB. Sou apaixonado por tecnologia e compartilho meu conhecimento nas redes sociais.
+Olá! Me chamo Mateus Alves, tenho 28 anos e sou natural de Cabo Verde, MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFEOB. Sou apaixonado por tecnologia e compartilho meu conhecimento nas redes sociais.
 
 ### Redes Sociais
 
